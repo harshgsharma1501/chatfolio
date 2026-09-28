@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620">
+  <path d="M260 42c82 0 145 65 145 146 0 54-27 92-58 118 60 25 97 76 112 151H61c14-75 51-126 112-151-31-26-58-64-58-118 0-81 63-146 145-146Z" fill="#f47b35"/>
+  <circle cx="212" cy="165" r="11" fill="#2a2a2a"/><circle cx="308" cy="165" r="11" fill="#2a2a2a"/>
+  <path d="M215 218c25 17 65 17 90 0" stroke="#2a2a2a" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="174" y="122" width="65" height="46" rx="17" fill="none" stroke="#2a2a2a" stroke-width="6"/><rect x="281" y="122" width="65" height="46" rx="17" fill="none" stroke="#2a2a2a" stroke-width="6"/><path d="M239 145h42" stroke="#2a2a2a" stroke-width="6"/>
+  <text x="260" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="58" fill="#2a2a2a">HS</text>
+</svg>
